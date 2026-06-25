@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Travel Stories</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Travel Destinations</h1>
+
+<!-- TABLE -->
+<table>
+  <tr>
+    <th>Destination</th>
+    <th>Attraction</th>
+  </tr>
+
+  <tr>
+    <td>Paris</td>
+    <td>
+      <a href="#paris">
+        <img src="https://images.unsplash.com/photo-1502602898657-3e91760cbb34" alt="Eiffel Tower">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Rome</td>
+    <td>
+      <a href="#rome">
+        <img src="https://images.unsplash.com/photo-1552832230-c0197dd311b5" alt="Colosseum">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>New York</td>
+    <td>
+      <a href="#ny">
+        <img src="https://images.unsplash.com/photo-1485738422979-f5c462d49f74" alt="Statue of Liberty">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<!-- BOTTOM SECTIONS -->
+<section id="paris">
+  <h2>Paris - Eiffel Tower</h2>
+  <p>
+    The Eiffel Tower is one of the most iconic landmarks in the world.
+    It represents Paris and attracts millions of visitors every year.
+  </p>
+</section>
+
+<section id="rome">
+  <h2>Rome - Colosseum</h2>
+  <p>
+    The Colosseum is an ancient amphitheater in Rome and one of the greatest works of Roman architecture.
+    It was used for gladiatorial contests and public events.
+  </p>
+</section>
+
+<section id="ny">
+  <h2>New York - Statue of Liberty</h2>
+  <p>
+    The Statue of Liberty is a symbol of freedom and democracy.
+    It stands on Liberty Island and welcomes visitors arriving by sea.
+  </p>
+</section>
+
+<br>
+<a href="index.html">← Back to Home</a>
+
+</body>
+</html>
