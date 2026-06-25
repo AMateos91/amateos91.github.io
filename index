@@ -1,0 +1,139 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Travel Blog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Travel Blog</h1>
+
+<!-- NUMBER BLOCKS -->
+<div class="numbers">
+  <a href="#dest1" class="num n1">1</a>
+  <a href="#dest2" class="num n2">2</a>
+  <a href="#dest3" class="num n3">3</a>
+  <a href="#dest4" class="num n4">4</a>
+</div>
+
+<hr>
+
+<!-- DESTINATION 1 -->
+<section id="dest1">
+  <h2>Destination 1: Europe</h2>
+  <ol>
+    <li>France
+      <ul>
+        <li>Paris</li>
+        <li>Nice</li>
+        <li>Marseille</li>
+      </ul>
+    </li>
+    <li>Italy
+      <ul>
+        <li>Rome</li>
+        <li>Florence</li>
+        <li>Venice</li>
+      </ul>
+    </li>
+    <li>Greece
+      <ul>
+        <li>Athens</li>
+        <li>Thessaloniki</li>
+        <li>Santorini</li>
+      </ul>
+    </li>
+  </ol>
+</section>
+
+<!-- DESTINATION 2 -->
+<section id="dest2">
+  <h2>Destination 2: Asia</h2>
+  <ol>
+    <li>Japan
+      <ul>
+        <li>Tokyo</li>
+        <li>Kyoto</li>
+        <li>Osaka</li>
+      </ul>
+    </li>
+    <li>China
+      <ul>
+        <li>Beijing</li>
+        <li>Shanghai</li>
+        <li>Xi'an</li>
+      </ul>
+    </li>
+    <li>India
+      <ul>
+        <li>New Delhi</li>
+        <li>Mumbai</li>
+        <li>Jaipur</li>
+      </ul>
+    </li>
+  </ol>
+</section>
+
+<!-- DESTINATION 3 -->
+<section id="dest3">
+  <h2>Destination 3: America</h2>
+  <ol>
+    <li>USA
+      <ul>
+        <li>New York City</li>
+        <li>Los Angeles</li>
+        <li>Chicago</li>
+      </ul>
+    </li>
+    <li>Brazil
+      <ul>
+        <li>Rio de Janeiro</li>
+        <li>São Paulo</li>
+        <li>Salvador</li>
+      </ul>
+    </li>
+    <li>Canada
+      <ul>
+        <li>Toronto</li>
+        <li>Vancouver</li>
+        <li>Montreal</li>
+      </ul>
+    </li>
+  </ol>
+</section>
+
+<!-- DESTINATION 4 -->
+<section id="dest4">
+  <h2>Destination 4: Africa</h2>
+  <ol>
+    <li>South Africa
+      <ul>
+        <li>Cape Town</li>
+        <li>Johannesburg</li>
+        <li>Durban</li>
+      </ul>
+    </li>
+    <li>Egypt
+      <ul>
+        <li>Cairo</li>
+        <li>Luxor</li>
+        <li>Sharm El Sheikh</li>
+      </ul>
+    </li>
+    <li>Morocco
+      <ul>
+        <li>Marrakech</li>
+        <li>Casablanca</li>
+        <li>Fez</li>
+      </ul>
+    </li>
+  </ol>
+</section>
+
+<br>
+<a href="stories.html">Go to Travel Stories →</a>
+
+</body>
+</html>
